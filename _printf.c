@@ -1,9 +1,3 @@
-/*
- * File: _printf.c
- * Auth: Judith Ezenwosu
- *       Akanimoh George
- */
-
 #include "main.h"
 
 void cleanup(va_list args, buffer_t *output);
