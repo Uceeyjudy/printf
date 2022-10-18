@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * prinlunt - prints a long unsigned integer
  * @arguments: number to print
